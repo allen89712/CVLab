@@ -1,0 +1,28 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: C:\Users\TKU\anaconda3\envs\tf2
+
+  added / updated specs:
+    - protobuf
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    protobuf-3.20.3            |   py38hd77b12b_0         232 KB
+    ------------------------------------------------------------
+                                           Total:         232 KB
+
+The following NEW packages will be INSTALLED:
+
+  libprotobuf        pkgs/main/win-64::libprotobuf-3.20.3-h23ce68f_0
+  protobuf           pkgs/main/win-64::protobuf-3.20.3-py38hd77b12b_0
+  zlib               pkgs/main/win-64::zlib-1.2.13-h8cc25b3_0
+
+
+Proceed ([y]/n)? Invalid choice: conda update -n base -c defaults conda
+Proceed ([y]/n)? 
